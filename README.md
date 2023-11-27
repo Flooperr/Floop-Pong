@@ -1,7 +1,7 @@
 # Floop-Pong
 Pong Game Made Using Pygame
 
-## Images
+## Gameplay
 ![Cool](https://github.com/Flooperr/Floop-Pong/assets/149349356/eaa35b2e-74de-4402-9001-bee2c4aa0ab3)
 
 
